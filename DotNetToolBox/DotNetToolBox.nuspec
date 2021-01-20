@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/treymorris/DotNetToolBox</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/treymorris/DotNetToolBox/master/dotnettoolbox.ico</iconUrl>
+    <description>$description$</description>
+    <releaseNotes></releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags>dotnet toolbox tools lib common shared extensions log4net logging</tags>
+  </metadata>
+</package>
